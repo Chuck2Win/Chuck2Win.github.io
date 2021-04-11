@@ -4,8 +4,8 @@ email: pn9194@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   머신러닝, 딥러닝, 통계, NLP 등 기록
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
-remote_theme: Chuck2Win/texture
+#baseurl: /texture
+remote_theme: thelehhman/texture
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
