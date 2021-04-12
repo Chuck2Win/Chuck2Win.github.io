@@ -9,7 +9,7 @@ Attention is all you need 구현
 ## 구현
 
 https://github.com/Chuck2Win/Attention-is-all-you-need
-
+![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
 
 ![Transformer (Attention Is All You Need) 구현하기 (1/3) | Reinforce NLP](https://paul-hyun.github.io/assets/2019-12-19/transformer-model-architecture.png)
