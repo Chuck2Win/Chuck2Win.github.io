@@ -6,7 +6,7 @@ date:   2021-04-13
 categories: Plan
 ---
 
-# 다음을 위한 대비
+## 다음을 위한 대비
 
 ##  Contextual representation
 
@@ -16,11 +16,11 @@ GPT-3
 
 ELECTRA
 
-RoBERTa
+RoBERTa - done
 
 XLNet
 
-ALBERT
+ALBERT - now
 
 ## Question and answering
 
@@ -40,7 +40,10 @@ LUKE
 
 [Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation](https://paperswithcode.com/sota/dialogue-generation-on-twitter-dialogue-noun)
 
-TransferTransfo
+TransferTransfo - now
 
 ★ persona dataset 다뤄보기
 
+## linux 공부  
+- 패스트캠퍼스 강의 들으면서 해보기
+- 연구실 컴퓨터로 활용하기
